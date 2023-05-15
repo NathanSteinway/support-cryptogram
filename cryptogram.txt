@@ -1,0 +1,44 @@
+QUEUE | 
+
+pair-programming |
+
+advisor meetings |
+
+message instructor or mentor
+
+
+
+a = q
+
+c = e
+
+i = m
+
+l = p
+
+q = n
+
+y = o
+
+j = u
+
+e = d
+
+w = v
+
+b = s
+
+y = o
+
+d = r
+
+f = g
+
+z = a 
+
+o = m
+
+p = i
+
+
+  
